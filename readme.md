@@ -1,5 +1,4 @@
 The Spark still tries
-
 =====
 
 I. Mission Statement<br />
