@@ -1,6 +1,6 @@
 The Spark still tries
 
-===
+=====
 
 I. Mission Statement<br />
 I wanted to do an experiment and test game play difficult as it is increased within a single level. You are an electric charge, who wants to become more positive by joining with the red charges. But as you get more positive the other positive charges starts running away from you faster. Meanwhile the negative charges become more attracked to you, so staying postive can be hard. 
