@@ -3,7 +3,8 @@ The Spark still tries
 ===
 
 I. Mission Statement<br />
-    I wanted to do an experiment and test game play difficult as it is increased within a single level.
+    I wanted to do an experiment and test game play difficult as it is increased within a single level
+    
     Random fact ~ namesakes: This experiment was named after the a line in Darren Hayes song "Void".
 
 II. Libraries Required<br />
